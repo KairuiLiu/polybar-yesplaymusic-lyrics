@@ -12,6 +12,12 @@
 ### 配置
 
 - 将 `/lyric` 移动到 `~/.config/polybar/scripts/`
+- 在`~/.config/polybar/scripts/`下执行
+  
+  ```bash
+  pnpm install
+  ```
+  
 - 在 `config.ini` 中添加模块  
 
   ```ini
