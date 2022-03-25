@@ -1,0 +1,23 @@
+{
+  "name": "polybar-yesplaymusic-lyrics",
+  "version": "1.0.0",
+  "description": "show yesplaymusic lyrics on polybar",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KairuiLiu/polybar-yesplaymusic-lyrics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KairuiLiu/polybar-yesplaymusic-lyrics/issues"
+  },
+  "homepage": "https://github.com/KairuiLiu/polybar-yesplaymusic-lyrics#readme",
+  "dependencies": {
+    "node-fetch": "2"
+  }
+}
